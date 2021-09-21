@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "semantic-ui-react": "^2.0.3"
+  }
+}
